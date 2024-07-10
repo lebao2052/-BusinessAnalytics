@@ -1,4 +1,4 @@
-## Project Title: Analyzing and Predicting Stock Prices with Neural Networks and Other Models
+## Analyzing and Predicting Stock Prices with Neural Networks and Other Models
 
 ### Introduction
 The stock market plays a pivotal role in modern economies, making accurate stock price prediction a topic of significant interest among investors and financial analysts. The emergence of machine learning and artificial intelligence has spurred the development of predictive models using various algorithms, including neural networks.
