@@ -39,20 +39,11 @@ This project aims to provide a comprehensive overview of utilizing neural networ
 ### Future Directions
 Future iterations of this project could focus on refining model architectures, exploring ensemble methods, or integrating real-time data for enhanced predictive capabilities.
 
-### Repository Structure
-- **Code/**: Contains implementation scripts for each model.
-- **Data/**: Includes sample time-series datasets used for training and evaluation.
-- **Results/**: Stores output files, model evaluations, and visualizations.
-
 ### Contributors
-- [Your Name]
-- [Collaborator 1]
-- [Collaborator 2]
-
+- Le Gia Bao 
+- Do Huynh My Tam 
+- Trinh Duong Quoc Bao
 
 ### Acknowledgments
 Acknowledgments to any individuals, organizations, or datasets that contributed to the project.
 
----
-
-Feel free to adapt this README template to suit your project specifics and ensure clarity for potential collaborators and users exploring your repository.
